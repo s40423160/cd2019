@@ -58,7 +58,7 @@
 <v t="leo.20190418215357.1"><vh>W8</vh>
 <v t="leo.20190418215357.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190418215406.1"><vh>W9</vh>
+<v t="leo.20190418215406.1" a="E"><vh>W9</vh>
 <v t="leo.20190418215406.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20190418215309.1"><vh>快捷鍵</vh>
@@ -189,7 +189,9 @@ Created by [許育誠]
 * 建立可個人可攜裝置
 * 包括python wscite(SciTE) tcc HxD
 * 建立一個start.bat作為開啟的工具
-* 把3月1日的課也一起上完</t>
+* 把3月1日的課也一起上完
+
+</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -391,7 +393,9 @@ make.start()
 </t>
 <t tx="leo.20190418215317.2"># 第二週
 
-* 遇到228連假 調課到第一週</t>
+* 遇到228連假 調課到第一週
+
+</t>
 <t tx="leo.20190418215319.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -403,7 +407,9 @@ make.start()
 </t>
 <t tx="leo.20190418215319.2"># 第三週
 
-第三週為建立鑰匙，這次上課的內容更之前上的內容有許多地方不一樣，所以前幾堂課都上的比較吃力，不過也是用github作為主要的協同工具，希望可以跟上進度。</t>
+第三週為建立鑰匙，這次上課的內容更之前上的內容有許多地方不一樣，所以前幾堂課都上的比較吃力，不過也是用github作為主要的協同工具，希望可以跟上進度。
+
+</t>
 <t tx="leo.20190418215323.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -415,7 +421,9 @@ make.start()
 </t>
 <t tx="leo.20190418215323.2"># 第四週
 
-這週主要是透過SSH做為可以不用再打帳號密碼，更新github的時候就透過金鑰，可以直接將隨身碟跟github座連接，不過在建立步驟中就遇到許多問題了，就一直重複觀看老師上傳的影片，許多指令也很不熟悉，剛好網路也遇到問題，老師就再教了IPV6跟IPV4的使用方法跟連接ssh的方法。</t>
+這週主要是透過SSH做為可以不用再打帳號密碼，更新github的時候就透過金鑰，可以直接將隨身碟跟github座連接，不過在建立步驟中就遇到許多問題了，就一直重複觀看老師上傳的影片，許多指令也很不熟悉，剛好網路也遇到問題，老師就再教了IPV6跟IPV4的使用方法跟連接ssh的方法。
+
+</t>
 <t tx="leo.20190418215348.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -427,7 +435,9 @@ make.start()
 </t>
 <t tx="leo.20190418215348.2"># 第七週
 
-* 清明連假</t>
+* 清明連假
+
+</t>
 <t tx="leo.20190418215357.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -447,7 +457,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 
 再轉入到vrep裡面做模擬
 不過遇到許多問題還沒做完
-這周我把個人網誌跟投影片做出來</t>
+這周我把個人網誌跟投影片做出來
+
+</t>
 <t tx="leo.20190418215406.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -459,8 +471,7 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 </t>
 <t tx="leo.20190418215406.2"># 期中影片
 
-
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qMkSTBJOs5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190418221143.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -502,7 +513,9 @@ http://mde.tw/cd2019/content/%E5%AF%A6%E7%BF%92%E4%BB%BB%E5%8B%99%E4%BA%8C.html
 
 https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea715f134/e/b11029a44b92b2093616ddc6
 
-畫完後就讓繪製足球架的同學去加入到手足球系統裡面</t>
+畫完後就讓繪製足球架的同學去加入到手足球系統裡面
+
+</t>
 <t tx="leo.20190418221232.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -540,6 +553,8 @@ https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea71
 </t>
 <t tx="leo.20190418221232.5">模擬影片
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iYqxYQV8FZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iYqxYQV8FZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
