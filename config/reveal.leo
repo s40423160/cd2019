@@ -24,64 +24,86 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>目錄</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20190612195414.1" a="E"><vh>Onshape</vh>
-<v t="leo.20190612195414.2" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20190612195414.3"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20190612195414.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20190612195414.5"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20190612200031.1" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20190612200031.2"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20190612200033.1" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20190612200033.2"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20190612200034.1"><vh>導入縮排程式碼</vh>
-<v t="leo.20190612200034.2"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20190612200036.1"><vh>導入縮排程式碼</vh>
-<v t="leo.20190612200036.2"><vh>引用程式碼</vh></v>
-</v>
-</v>
-<v t="leo.20190418215317.1" a="E"><vh>W2</vh>
+<v t="leo.20190418215317.1" a="E"><vh>W10</vh>
 <v t="leo.20190418215317.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190418215319.1" a="E"><vh>W3</vh>
+<v t="leo.20190418215319.1" a="E"><vh>W11</vh>
 <v t="leo.20190418215319.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190418215323.1" a="E"><vh>W4</vh>
-<v t="leo.20190418215323.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190612212037.1" a="E"><vh>W12</vh>
+<v t="leo.20190612212037.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20190612212037.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20190418221143.1" a="E"><vh>W5</vh>
-<v t="leo.20190418221143.2"><vh>導入數學符號與方程式</vh>
+<v t="leo.20190612212037.4" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612212037.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20190612212129.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612212129.2"><vh>引用程式碼</vh></v>
+</v>
+</v>
+<v t="leo.20190418221143.1" a="E"><vh>W13</vh>
+<v t="leo.20190418221143.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20190418221143.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20190418221143.4"><vh>導入縮排程式碼</vh>
+<v t="leo.20190418221143.4" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20190418221143.5"><vh>引用程式碼</vh></v>
 </v>
 </v>
-<v t="leo.20190418221232.1" a="E"><vh>W6</vh>
-<v t="leo.20190418221232.2"><vh>導入數學符號與方程式</vh>
+<v t="leo.20190418221232.1" a="E"><vh>W14</vh>
+<v t="leo.20190418221232.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20190418221232.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
 <v t="leo.20190418221232.4" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20190418221232.5"><vh>引用程式碼</vh></v>
 </v>
+<v t="leo.20190612212824.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612212824.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20190418215348.1"><vh>W7</vh>
-<v t="leo.20190418215348.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190612213014.1" a="E"><vh>W15</vh>
+<v t="leo.20190612213014.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20190612213014.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20190612213014.4" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612213014.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20190612213014.6" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612213014.7"><vh>引用程式碼</vh></v>
+</v>
+</v>
+<v t="leo.20190612213015.1" a="E"><vh>W16</vh>
+<v t="leo.20190612213015.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20190612213015.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20190612213015.4" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612213015.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20190612213015.6" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612213015.7"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20190612213857.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612213857.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20190612213858.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612213858.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20190612213900.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612213900.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20190612213945.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190612213945.2"><vh>引用程式碼</vh></v>
+</v>
 </v>
 <v t="leo.20190418215357.1"><vh>W8</vh>
 <v t="leo.20190418215357.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20190612214813.1"><vh>W10</vh>
+<v t="leo.20190612214813.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20190418215406.1" a="E"><vh>W9</vh>
 <v t="leo.20190418215406.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190418215309.1"><vh>快捷鍵</vh>
+<v t="leo.20190418215309.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20190418215309.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -194,24 +216,6 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;
 Created by [40423160 許育誠]</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.12"># 目錄
-
-* onshape
-* 送球機構
-* V-rep模擬
-* 倉儲推送紀錄
-* 心得
-* 結論
-* 自評</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -411,11 +415,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190418215317.2"># 第二週
+<t tx="leo.20190418215317.2"># 第十週
 
-* 遇到228連假 調課到第一週
-
-</t>
+* 練習實習任務三 [檔案](https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20ac86c1/e/e56abdd445d4c86cb793d442)
+* 補製作[建立可攜影片](https://www.youtube.com/watch?v=_KHJyEbXOg8&amp;t=65s)
+* 補製作BubbleRob tutorial [影片1](https://youtu.be/0iOS6LiqAjM) [影片2](https://youtu.be/ZIbJa1tlOHY) [影片3](https://youtu.be/djo_oHHY60g)</t>
 <t tx="leo.20190418215319.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -425,39 +429,12 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190418215319.2"># 第三週
+<t tx="leo.20190418215319.2"># 第十一週
 
-第三週為建立鑰匙，這次上課的內容更之前上的內容有許多地方不一樣，所以前幾堂課都上的比較吃力，不過也是用github作為主要的協同工具，希望可以跟上進度。
-
-</t>
-<t tx="leo.20190418215323.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190418215323.2"># 第四週
-
-這週主要是透過SSH做為可以不用再打帳號密碼，更新github的時候就透過金鑰，可以直接將隨身碟跟github座連接，不過在建立步驟中就遇到許多問題了，就一直重複觀看老師上傳的影片，許多指令也很不熟悉，剛好網路也遇到問題，老師就再教了IPV6跟IPV4的使用方法跟連接ssh的方法。
-
-</t>
-<t tx="leo.20190418215348.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190418215348.2"># 第七週
-
-* 清明連假
-
-</t>
+* 開始分配工作
+* 我被分配到的工作是送球機構模擬
+* 開始研究並初步的繪製
+* 建立虛擬主機 [影片](https://youtu.be/ZMSunwEQ0No)</t>
 <t tx="leo.20190418215357.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -491,7 +468,7 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 </t>
 <t tx="leo.20190418215406.2"># 期中影片
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qMkSTBJOs5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/qMkSTBJOs5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190418221143.1">&lt;section&gt;
@@ -510,16 +487,11 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 
 						
 </t>
-<t tx="leo.20190418221143.3"># 第五週
+<t tx="leo.20190418221143.3"># 第十三週
 
-這個禮拜是第一次分組作業, 我被分配到的任務是畫手足球員
-
-參考老師給的尺寸 
-
-http://mde.tw/cd2019/content/%E5%AF%A6%E7%BF%92%E4%BB%BB%E5%8B%99%E4%BA%8C.html
-
-然後作稍為的微調
-</t>
+* 建立送球機構的單邊軌道 
+* 並匯入到V-rep進行模擬
+* [檔案](https://cad.onshape.com/documents/66feb481cd24f89f41aba07f/w/44386fafdc7d7515dd51458e/e/d842adf8eb6d1d0280a7bd23)</t>
 <t tx="leo.20190418221143.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -531,13 +503,7 @@ http://mde.tw/cd2019/content/%E5%AF%A6%E7%BF%92%E4%BB%BB%E5%8B%99%E4%BA%8C.html
 
 						
 </t>
-<t tx="leo.20190418221143.5">這是我畫的足球員
-
-https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea715f134/e/b11029a44b92b2093616ddc6
-
-畫完後就讓繪製足球架的同學去加入到手足球系統裡面
-
-</t>
+<t tx="leo.20190418221143.5">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/E2-pMWhpLZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190418221232.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -554,14 +520,10 @@ https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea71
 
 						
 </t>
-<t tx="leo.20190418221232.3"># 第六週
+<t tx="leo.20190418221232.3"># 第十四週
 
-這週在做http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm 
-
-利用V-rep製作BubbleRob tutorial 使用感測器可以在圓柱圈內跑
-
-接近圓柱時會後退 轉彎 再前進
-</t>
+* 建立送球機構的雙邊軌道
+* 並匯入到V-rep進行模擬</t>
 <t tx="leo.20190418221232.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -573,17 +535,13 @@ https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea71
 
 						
 </t>
-<t tx="leo.20190418221232.5">模擬影片
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iYqxYQV8FZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20190612195414.1">&lt;section&gt;
+<t tx="leo.20190418221232.5">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/qCcklTJMO0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612212037.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190612195414.2">&lt;section data-markdown&gt;
+<t tx="leo.20190612212037.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -594,11 +552,12 @@ https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea71
 
 						
 </t>
-<t tx="leo.20190612195414.3"># Onshape
-* 門框
+<t tx="leo.20190612212037.3"># 第十二週
 
-&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/ball-sending-1.png"class="w3-round" alt="Norway" width="500" high="500"&gt;</t>
-<t tx="leo.20190612195414.4">&lt;section data-markdown&gt;
+* 先繪製了送球機構的門框, 並且匯入到V-rep進行模擬 [門框](https://cad.onshape.com/documents/66feb481cd24f89f41aba07f/w/44386fafdc7d7515dd51458e/e/7cfc018e3aba5469c187fc26)
+
+&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/ball-sending-1.png"class="w3-round" alt="Norway" width="400" high="400"&gt;</t>
+<t tx="leo.20190612212037.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -609,12 +568,8 @@ https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea71
 
 						
 </t>
-<t tx="leo.20190612195414.5">v-rep模擬影片
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ei2KLT8OeA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20190612200031.1">&lt;section data-markdown&gt;
+<t tx="leo.20190612212037.5">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/Ei2KLT8OeA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612212129.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -625,13 +580,8 @@ https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea71
 
 						
 </t>
-<t tx="leo.20190612200031.2">v-rep模擬影片
-
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nczBcHk52tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20190612200033.1">&lt;section data-markdown&gt;
+<t tx="leo.20190612212129.2">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/nczBcHk52tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612212824.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -642,10 +592,13 @@ https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea71
 
 						
 </t>
-<t tx="leo.20190612200033.2">門框
+<t tx="leo.20190612212824.2">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/cnAd8WULxA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612213014.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 
-&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/ball-sending-1.png"class="w3-round" alt="Norway" width="500" high="500"&gt;</t>
-<t tx="leo.20190612200034.1">&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20190612213014.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -656,14 +609,11 @@ https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea71
 
 						
 </t>
-<t tx="leo.20190612200034.2">這是我畫的足球員
+<t tx="leo.20190612213014.3"># 第十五週
 
-https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea715f134/e/b11029a44b92b2093616ddc6
-
-畫完後就讓繪製足球架的同學去加入到手足球系統裡面
-
-</t>
-<t tx="leo.20190612200036.1">&lt;section data-markdown&gt;
+* 將之前做的送球機構pull request到期末倉儲
+* 把足球員組合到送球機構中</t>
+<t tx="leo.20190612213014.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -674,12 +624,148 @@ https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea71
 
 						
 </t>
-<t tx="leo.20190612200036.2">這是我畫的足球員
+<t tx="leo.20190612213014.5">[onshape檔案](https://cad.onshape.com/documents/e2aff841e3efe05bced66d09/w/c0b1955e1e3c7c89d7bddbc8/e/15a3920124f3878336a016bc)
 
-https://cad.onshape.com/documents/1bd73a7377db9cdd414172b8/w/324e3c900c47a65ea715f134/e/b11029a44b92b2093616ddc6
+&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/40423160-W15.png"class="w3-round" alt="Norway" width="800" high="800"&gt;</t>
+<t tx="leo.20190612213014.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-畫完後就讓繪製足球架的同學去加入到手足球系統裡面
+
+
+						
+</t>
+<t tx="leo.20190612213014.7">[onshape檔案](https://cad.onshape.com/documents/d72e7569a7798b4b0e9079f9/w/0cd24f2b64a207a740cbd43f/e/f412ca36103c51131b2bf475)
+
+&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/40423160-W15-2.png"class="w3-round" alt="Norway" width="800" high="800"&gt;</t>
+<t tx="leo.20190612213015.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 
 </t>
+<t tx="leo.20190612213015.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612213015.3"># 第十六週
+
+* 端午節放假
+* 因為送球機構做完了
+* 所以開始做系統功能展示
+* 從一開始的操作影片到後來的人對人 人跟電腦 電腦對電腦</t>
+<t tx="leo.20190612213015.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612213015.5">方向鍵測試
+
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/PeQFnNMEwLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612213015.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612213015.7">足球員設定
+
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/LrOi0nHQ1mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612213857.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612213857.2">轉動跟滑動的設定
+
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/8E2mgRGWq94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612213858.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612213858.2">人對人
+
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/I19GK0fYO_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612213900.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612213900.2">人對電腦
+
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/OAVXWbMAh4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612213945.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612213945.2">電腦對電腦
+
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/qP5MVSiju8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+參考學弟[網址](https://40623217.github.io/Collaborative-Product-Design-Practice/content/index.html)</t>
+<t tx="leo.20190612214813.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190612214813.2"># 目錄
+
+* onshape
+* 送球機構
+* V-rep模擬
+* 倉儲推送紀錄
+* 心得
+* 結論
+* 自評</t>
 </tnodes>
 </leo_file>
