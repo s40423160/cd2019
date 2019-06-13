@@ -71,7 +71,7 @@
 <v t="leo.20190612213014.7"><vh>引用程式碼</vh></v>
 </v>
 </v>
-<v t="leo.20190612213015.1" a="E"><vh>W16</vh>
+<v t="leo.20190612213015.1"><vh>W16</vh>
 <v t="leo.20190612213015.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20190612213015.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -94,23 +94,26 @@
 <v t="leo.20190612213945.2"><vh>引用程式碼</vh></v>
 </v>
 </v>
-<v t="leo.20190418215357.1" a="E"><vh>送球機構解說</vh>
+<v t="leo.20190418215357.1"><vh>送球機構解說</vh>
 <v t="leo.20190418215357.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190612214813.1" a="E"><vh>W10</vh>
-<v t="leo.20190612214813.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20190418215406.1" a="E"><vh>W9</vh>
+<v t="leo.20190418215406.1" a="E"><vh>心得</vh>
 <v t="leo.20190418215406.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190418215309.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190613165440.1" a="E"><vh>心得</vh>
+<v t="leo.20190613165440.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190612214813.1" a="E"><vh>自評</vh>
+<v t="leo.20190612214813.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190418215309.1" a="E"><vh>期末影片</vh>
 <v t="leo.20190418215309.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
@@ -398,14 +401,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190418215309.2"># 投影片快捷鍵
+<t tx="leo.20190418215309.2"># 期末影片
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
 
 </t>
 <t tx="leo.20190418215317.1">&lt;section data-markdown&gt;
@@ -452,8 +450,8 @@ make.start()
 </t>
 <t tx="leo.20190418215357.2"># 送球機構解說
 
-
-
+細部的零件圖跟解說請到這個[連結](https://s40423160.github.io/cd2019/content/%E9%80%81%E7%90%83%E8%A3%9D%E7%BD%AE.html)
+裡面包括第一版本跟第二版本的零件圖
 </t>
 <t tx="leo.20190418215406.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -464,9 +462,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190418215406.2"># 期中影片
+<t tx="leo.20190418215406.2"># 進度
 
-&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/qMkSTBJOs5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+* 每個禮拜的進度都放在[進度](https://s40423160.github.io/cd2019/content/%E5%BF%83%E5%BE%97.html)
+* [小組的進度表](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g3_1/content/40423160.html)
 
 </t>
 <t tx="leo.20190418221143.1">&lt;section&gt;
@@ -524,7 +523,7 @@ make.start()
 </t>
 <t tx="leo.20190418221232.3"># 第十四週
 
-* 建立送球機構的雙邊軌道
+* 建立送球機構的[雙邊軌道](https://cad.onshape.com/documents/b18361a82967351a03443cb3/w/57dbf787f13f8e59f9456130/e/f395ea88668a19d13c53dc5b)
 * 並匯入到V-rep進行模擬
 
 </t>
@@ -539,7 +538,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190418221232.5">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/qCcklTJMO0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+<t tx="leo.20190418221232.5">[第一版本](https://cad.onshape.com/documents/b18361a82967351a03443cb3/w/57dbf787f13f8e59f9456130/e/f395ea88668a19d13c53dc5b)
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/qCcklTJMO0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190612212037.1">&lt;section&gt;
@@ -604,7 +604,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190612212824.2">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/cnAd8WULxA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+<t tx="leo.20190612212824.2">[第二版本](https://cad.onshape.com/documents/bae8bc92c292636ff6a07042/w/36dd5447b2c7b1e761303f8e/e/d3856f293649335c602fab25)
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/cnAd8WULxA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190612213014.1">&lt;section&gt;
@@ -640,7 +641,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190612213014.5">[onshape檔案](https://cad.onshape.com/documents/e2aff841e3efe05bced66d09/w/c0b1955e1e3c7c89d7bddbc8/e/15a3920124f3878336a016bc)
+<t tx="leo.20190612213014.5">[onshape檔案](https://cad.onshape.com/documents/e2aff841e3efe05bced66d09/w/c0b1955e1e3c7c89d7bddbc8/e/15a3920124f3878336a016bc)第一版本
 
 &lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/40423160-W15.png"class="w3-round" alt="Norway" width="800" high="800"&gt;
 
@@ -656,7 +657,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190612213014.7">[onshape檔案](https://cad.onshape.com/documents/d72e7569a7798b4b0e9079f9/w/0cd24f2b64a207a740cbd43f/e/f412ca36103c51131b2bf475)
+<t tx="leo.20190612213014.7">[onshape檔案](https://cad.onshape.com/documents/d72e7569a7798b4b0e9079f9/w/0cd24f2b64a207a740cbd43f/e/f412ca36103c51131b2bf475)第二版本
 
 &lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/40423160-W15-2.png"class="w3-round" alt="Norway" width="800" high="800"&gt;
 
@@ -792,16 +793,26 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190612214813.2"># 目錄
+<t tx="leo.20190612214813.2"># 評分比例
 
-* onshape
-* 送球機構
-* V-rep模擬
-* 倉儲推送紀錄
-* 心得
-* 結論
-* 自評
-
+* 學員出席 (20%) : 20
+* Github 倉儲管理  (20%) : 15
+* Onshape 協同操作 (20%) : 15
+* V-rep 模擬 (20%) : 10
+* 程式開發 (20%) : 5
+* 自評成績: 65
 </t>
+<t tx="leo.20190613165440.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190613165440.2"># 結論
+
+* 這學期學的跟去年修的電腦輔助設計實習差的有點多，所以有點吃不消，也將期中之前的東西補做出來，期末報告的部分我負責做送球機構，就有計畫的花幾個禮拜將它完成，後面就有時間去多做V-rep模擬，因為時間關係，程式都是參考學弟的，因為這次是隨機分組，所以更能了解協同的重要，跟組員的溝通，到最後的全班的協同，都是很難得的經驗</t>
 </tnodes>
 </leo_file>
