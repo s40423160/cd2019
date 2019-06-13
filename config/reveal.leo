@@ -94,10 +94,10 @@
 <v t="leo.20190612213945.2"><vh>引用程式碼</vh></v>
 </v>
 </v>
-<v t="leo.20190418215357.1"><vh>W8</vh>
+<v t="leo.20190418215357.1" a="E"><vh>送球機構解說</vh>
 <v t="leo.20190418215357.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190612214813.1"><vh>W10</vh>
+<v t="leo.20190612214813.1" a="E"><vh>W10</vh>
 <v t="leo.20190612214813.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20190418215406.1" a="E"><vh>W9</vh>
@@ -215,7 +215,9 @@ vertical: body pane on the botton</t>
 * [全班網站](http://cpgx.kmol.info/cd2019b/content/index.html)
 
 &lt;small&gt;
-Created by [40423160 許育誠]</t>
+Created by [40423160 許育誠]
+
+</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -419,7 +421,9 @@ make.start()
 
 * 練習實習任務三 [檔案](https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20ac86c1/e/e56abdd445d4c86cb793d442)
 * 補製作[建立可攜影片](https://www.youtube.com/watch?v=_KHJyEbXOg8&amp;t=65s)
-* 補製作BubbleRob tutorial [影片1](https://youtu.be/0iOS6LiqAjM) [影片2](https://youtu.be/ZIbJa1tlOHY) [影片3](https://youtu.be/djo_oHHY60g)</t>
+* 補製作BubbleRob tutorial [影片1](https://youtu.be/0iOS6LiqAjM) [影片2](https://youtu.be/ZIbJa1tlOHY) [影片3](https://youtu.be/djo_oHHY60g)
+
+</t>
 <t tx="leo.20190418215319.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -434,7 +438,9 @@ make.start()
 * 開始分配工作
 * 我被分配到的工作是送球機構模擬
 * 開始研究並初步的繪製
-* 建立虛擬主機 [影片](https://youtu.be/ZMSunwEQ0No)</t>
+* 建立虛擬主機 [影片](https://youtu.be/ZMSunwEQ0No)
+
+</t>
 <t tx="leo.20190418215357.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -444,17 +450,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190418215357.2"># 第八週
+<t tx="leo.20190418215357.2"># 送球機構解說
 
-這周是在做實習任務三http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm 
 
-先利用onshape繪製類似的構造
-
-https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20ac86c1/e/e56abdd445d4c86cb793d442
-
-再轉入到vrep裡面做模擬
-不過遇到許多問題還沒做完
-這周我把個人網誌跟投影片做出來
 
 </t>
 <t tx="leo.20190418215406.1">&lt;section data-markdown&gt;
@@ -491,7 +489,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 
 * 建立送球機構的單邊軌道 
 * 並匯入到V-rep進行模擬
-* [檔案](https://cad.onshape.com/documents/66feb481cd24f89f41aba07f/w/44386fafdc7d7515dd51458e/e/d842adf8eb6d1d0280a7bd23)</t>
+* [檔案](https://cad.onshape.com/documents/66feb481cd24f89f41aba07f/w/44386fafdc7d7515dd51458e/e/d842adf8eb6d1d0280a7bd23)
+
+</t>
 <t tx="leo.20190418221143.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -503,7 +503,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 
 						
 </t>
-<t tx="leo.20190418221143.5">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/E2-pMWhpLZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190418221143.5">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/E2-pMWhpLZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190418221232.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -523,7 +525,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 <t tx="leo.20190418221232.3"># 第十四週
 
 * 建立送球機構的雙邊軌道
-* 並匯入到V-rep進行模擬</t>
+* 並匯入到V-rep進行模擬
+
+</t>
 <t tx="leo.20190418221232.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -535,7 +539,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 
 						
 </t>
-<t tx="leo.20190418221232.5">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/qCcklTJMO0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190418221232.5">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/qCcklTJMO0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612212037.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -556,7 +562,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 
 * 先繪製了送球機構的門框, 並且匯入到V-rep進行模擬 [門框](https://cad.onshape.com/documents/66feb481cd24f89f41aba07f/w/44386fafdc7d7515dd51458e/e/7cfc018e3aba5469c187fc26)
 
-&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/ball-sending-1.png"class="w3-round" alt="Norway" width="400" high="400"&gt;</t>
+&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/ball-sending-1.png"class="w3-round" alt="Norway" width="400" high="400"&gt;
+
+</t>
 <t tx="leo.20190612212037.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -568,7 +576,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 
 						
 </t>
-<t tx="leo.20190612212037.5">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/Ei2KLT8OeA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612212037.5">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/Ei2KLT8OeA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612212129.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -580,7 +590,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 
 						
 </t>
-<t tx="leo.20190612212129.2">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/nczBcHk52tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612212129.2">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/nczBcHk52tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612212824.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -592,7 +604,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 
 						
 </t>
-<t tx="leo.20190612212824.2">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/cnAd8WULxA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612212824.2">&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/cnAd8WULxA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612213014.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -612,7 +626,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 <t tx="leo.20190612213014.3"># 第十五週
 
 * 將之前做的送球機構pull request到期末倉儲
-* 把足球員組合到送球機構中</t>
+* 把足球員組合到送球機構中
+
+</t>
 <t tx="leo.20190612213014.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -626,7 +642,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 </t>
 <t tx="leo.20190612213014.5">[onshape檔案](https://cad.onshape.com/documents/e2aff841e3efe05bced66d09/w/c0b1955e1e3c7c89d7bddbc8/e/15a3920124f3878336a016bc)
 
-&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/40423160-W15.png"class="w3-round" alt="Norway" width="800" high="800"&gt;</t>
+&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/40423160-W15.png"class="w3-round" alt="Norway" width="800" high="800"&gt;
+
+</t>
 <t tx="leo.20190612213014.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -640,7 +658,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 </t>
 <t tx="leo.20190612213014.7">[onshape檔案](https://cad.onshape.com/documents/d72e7569a7798b4b0e9079f9/w/0cd24f2b64a207a740cbd43f/e/f412ca36103c51131b2bf475)
 
-&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/40423160-W15-2.png"class="w3-round" alt="Norway" width="800" high="800"&gt;</t>
+&lt;img src="https://raw.githubusercontent.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1/gh-pages/images/40423160-W15-2.png"class="w3-round" alt="Norway" width="800" high="800"&gt;
+
+</t>
 <t tx="leo.20190612213015.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -662,7 +682,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 * 端午節放假
 * 因為送球機構做完了
 * 所以開始做系統功能展示
-* 從一開始的操作影片到後來的人對人 人跟電腦 電腦對電腦</t>
+* 從一開始的操作影片到後來的人對人 人跟電腦 電腦對電腦
+
+</t>
 <t tx="leo.20190612213015.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -676,7 +698,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 </t>
 <t tx="leo.20190612213015.5">方向鍵測試
 
-&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/PeQFnNMEwLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/PeQFnNMEwLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612213015.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -690,7 +714,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 </t>
 <t tx="leo.20190612213015.7">足球員設定
 
-&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/LrOi0nHQ1mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/LrOi0nHQ1mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612213857.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -704,7 +730,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 </t>
 <t tx="leo.20190612213857.2">轉動跟滑動的設定
 
-&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/8E2mgRGWq94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/8E2mgRGWq94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612213858.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -718,7 +746,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 </t>
 <t tx="leo.20190612213858.2">人對人
 
-&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/I19GK0fYO_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/I19GK0fYO_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612213900.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -732,7 +762,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 </t>
 <t tx="leo.20190612213900.2">人對電腦
 
-&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/OAVXWbMAh4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/OAVXWbMAh4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612213945.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -748,7 +780,9 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 
 &lt;iframe width="900" height="500" src="https://www.youtube.com/embed/qP5MVSiju8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-參考學弟[網址](https://40623217.github.io/Collaborative-Product-Design-Practice/content/index.html)</t>
+參考學弟[網址](https://40623217.github.io/Collaborative-Product-Design-Practice/content/index.html)
+
+</t>
 <t tx="leo.20190612214813.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -766,6 +800,8 @@ https://cad.onshape.com/documents/d4300f1277b25602bbac6e5a/w/2f8dde5ed823b97d20a
 * 倉儲推送紀錄
 * 心得
 * 結論
-* 自評</t>
+* 自評
+
+</t>
 </tnodes>
 </leo_file>
