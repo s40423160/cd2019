@@ -208,14 +208,14 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2019 Spring 協同產品設計實習
 
-### 國立虎尾科技大學
-### 機械設計工程系
+### 國立虎尾科技大學  機械設計工程系
 * [個人倉儲](https://github.com/s40423160/cd2019)
 * [個人網站](https://s40423160.github.io/cd2019/content/index.html)
 * [bg3倉儲](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g3_1)
-* [bg3組網站](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g3_1/content/index.html)
+* [bg3網站](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g3_1/content/index.html)
 * [全班倉儲](https://github.com/scrum-1/cd2019b)
 * [全班網站](http://cpgx.kmol.info/cd2019b/content/index.html)
+* [youtube頻道](https://www.youtube.com/channel/UC3Q2XeaQy3mBzOziZ6s6rhg/videos)
 
 &lt;small&gt;
 Created by [40423160 許育誠]
@@ -813,6 +813,8 @@ make.start()
 </t>
 <t tx="leo.20190613165440.2"># 結論
 
-* 這學期學的跟去年修的電腦輔助設計實習差的有點多，所以有點吃不消，也將期中之前的東西補做出來，期末報告的部分我負責做送球機構，就有計畫的花幾個禮拜將它完成，後面就有時間去多做V-rep模擬，因為時間關係，程式都是參考學弟的，因為這次是隨機分組，所以更能了解協同的重要，跟組員的溝通，到最後的全班的協同，都是很難得的經驗</t>
+* 這學期學的跟去年修的電腦輔助設計實習差的有點多，所以有點吃不消，也將期中之前的東西補做出來，期末報告的部分我負責做送球機構，就有計畫的花幾個禮拜將它完成，後面就有時間去多做V-rep模擬，因為時間關係，程式都是參考學弟的，因為這次是隨機分組，所以更能了解協同的重要，跟組員的溝通，到最後的全班的協同，都是很難得的經驗
+
+</t>
 </tnodes>
 </leo_file>
