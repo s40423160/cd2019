@@ -71,7 +71,7 @@
 <v t="leo.20190612213014.7"><vh>引用程式碼</vh></v>
 </v>
 </v>
-<v t="leo.20190612213015.1"><vh>W16</vh>
+<v t="leo.20190612213015.1" a="E"><vh>W16</vh>
 <v t="leo.20190612213015.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20190612213015.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -403,7 +403,7 @@ make.start()
 </t>
 <t tx="leo.20190418215309.2"># 期末影片
 
-
+&lt;iframe width="900" height="500" src="https://www.youtube.com/embed/FbAMh2A8I2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190418215317.1">&lt;section data-markdown&gt;
